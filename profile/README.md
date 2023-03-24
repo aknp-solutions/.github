@@ -1,4 +1,4 @@
-## This organization has been archived.
+# This organization has been archived.
 
 All projects belonging to this org have been moved to the [AMSDC](https://github.com/amsdc) organization.
 
