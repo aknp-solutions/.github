@@ -1,35 +1,24 @@
-# This organization has been archived.
+As believers in open-source, it's imperative for us to use open-source
+tools to manage our code. GitHub does not meet this requirement, hence
+we are shifting away from the platform. 
 
-All projects belonging to this org have been moved to the [AMSDC](https://github.com/amsdc) organization.
+Select projects on this account are available as source code in
+[Advaith's personal website](https://people.devinivas.org/~madvaith1/).
 
-**fids-airport-manager** is now located at https://github.com/amsdc/fids-airport-manager
-> **Note regarding this project:**
-> 
-> Due to the time constraints and restrictions on technical complexity of the CBSE Class 12 Computer Science project, the team was unable to build a production-ready version. The current version is only for demonstration purposes.
->
-> The original architecture was designed to be based on the Server-Client networking model, using real time communication protocols such as WebSocket. The server would be a REST API with Microservices. Redundancy and algorithmic efficiency were important design factors.
->
-> If any airport operations authority is interested in the development of the production version project, please drop a mail at amsdc.webmaster@gmail.com. Mention the Airport Name, code and expected number of displays in the mail.
+Onlookers unaffiliated with the authors of any of the projects can
+download past open-source projects affiliated with AMSDC, AKNP Solutions,
+vsmea, and other sister organizations from Ad's website. Note that not all
+projects are available - those deemed incomplete or unsupported will
+NOT be uploaded either to Ad's website or the DOSA server, and should be
+obtained from internet archives.
 
-
-
-**WEMFStack** is now located at https://github.com/amsdc/WEMFStack
-> **Note regarding this project:**
->
-> The maintainers of this repository have decided not to develop this tool. This is because many other similar tools already exist, and the Flask development mode is sufficient for testing purposes.
-> 
-> If you are interested in working on this project, please do contact the maintainers at amsdc.webmaster@gmail.com
-
-**rms-backend** is now located at https://github.com/amsdc/rms-backend
-
-The git repository of **autojoiner** got messed up beyond repair, no kind of push works. So if there is interest in it, please contact me at the above mentioned e-mail and I will try to repair the repo.
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Repositories which were used for team projects (both high school and
+college) are available in both source code and Git repository form. 
+If the souce code for a team project is not available on Ad's website,
+it is likely that it is not allowed to share the code for the project
+publicily due to copyright laws. With those terms in mind, the source code
+can be shared for personal use only - redistributing this source code
+could be a violation of trademark and copyright law. Should a member of such a
+team need the repository with commit history available as a link, they
+will be shared a link to the Devi Nivas Open-Source Applications (DOSA)
+GitLab server, whenever it is ready.
